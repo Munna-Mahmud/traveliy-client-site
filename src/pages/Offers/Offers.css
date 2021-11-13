@@ -1,0 +1,31 @@
+/* .offers-layer{
+    background: transparent;
+    height:100% ;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 15px;
+    transition: 0.5s;
+}
+.offers-layer:hover{
+    background: rgba(4, 11, 100, 0.6);
+    
+}
+.offers-layer h3{
+    color:white ;
+    width: 100%;
+    font-weight: 500;
+    font-size: 25px;
+    bottom: 0;
+    left:50% ;
+    transform: translate(-50%);
+    position: absolute;
+    opacity: 0;
+    transition: 0.5s;
+
+}
+.offers-layer:hover h3{
+    bottom: 49%;
+    opacity: 1;
+} */

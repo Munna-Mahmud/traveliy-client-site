@@ -1,0 +1,46 @@
+.coustom-contact{
+    background-image: url('../../images/about.webp');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 0px;
+    text-align: center;
+    color: #fff;
+}
+.coustom-contact h2{
+    font-size: 56px;
+    margin-bottom: 20px;
+}
+.coustom-contact p{
+    font-size: 22px;
+    line-height: 32px;
+    width: 40%;
+    margin: 0px auto;
+}
+.form-design
+{
+    width: 75%;
+    margin:  0px auto;
+    /* background-color: #bee4e7; */
+    padding: 50px ;
+}
+.input-field{
+    display: block;
+    padding: 10px 10px;
+    width: 100%;
+    margin:  15px 0px;
+}
+.input-button{
+    padding: 10px 35px;
+    
+    background-color: rgb(139, 139, 139);
+    color: #fff;
+    border: 2px solid rgb(139, 139, 139);
+}
+
+.input-button:hover{
+    color: rgb(139, 139, 139);
+    background-color: transparent;
+    transition: .3s;
+    border: 2px solid rgb(139, 139, 139);
+}

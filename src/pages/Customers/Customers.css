@@ -1,0 +1,18 @@
+.container .fa{
+    color: goldenrod;
+}
+.container .fas{
+    color: goldenrod;
+}
+.clients-reviews{
+    background-image: url('../../images/page-banner.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 150px 20px;
+    text-align: center;
+    /* color: #fff; */
+}
+.card{
+    border-radius: 10px !important;
+}

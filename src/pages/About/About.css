@@ -1,0 +1,19 @@
+.coustom-about{
+    background-image: url('../../images/section-bg-2.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px 0px;
+    text-align: center;
+    color: #fff;
+}
+.coustom-about h2{
+    font-size: 56px;
+    margin-bottom: 20px;
+}
+.coustom-about p{
+    font-size: 22px;
+    line-height: 32px;
+    width: 40%;
+    margin: 0px auto;
+}

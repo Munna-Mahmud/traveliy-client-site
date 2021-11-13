@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Indonesia Bali",
+        "price": "$850",
+        "Duration": "3Days",
+        "description": "Travel to Bali and discover Indonesia's beautiful island escape. Dotted with small, character-filled villages, smouldering volcanoes rising out of lush rich fields, idyllic beaches and colourful reefs, Bali is the perfect island getaway.",
+        "img": "https://i.ibb.co/Qr2PTb9/pexels-te-lensfix-1371360.jpg"
+    },
+    {
+        "id": 2,
+        "name": "India",
+        "price": "$650",
+        "Duration": "4Days",
+        "description": "India, the world’s 7th biggest country by area, and one of the oldest civilizations in the world, has lots to offer to the travellers around the world.",
+        "img": "https://i.ibb.co/pfCrSrP/pexels-artem-beliaikin-1319829.jpg"
+    },
+    {
+        "id": 3,
+        "name": "London",
+        "price": "$1530",
+        "Duration": "7Days",
+        "description": "Immerse yourself in the spellbinding world of Harry Potter™ on this trip to the Warner Bros. Studio Tour London. Travel to the fabled Harry Potter studios by air-conditioned coach from central London, and on arrival, trace the footsteps of Hogwarts’ student wizards at leisure. Behold original sets such as Platform 9 ¾ and Diagon Alley; see the Hogwarts Express steam train; ride a  on-screen wizardry. This Harry Pot",
+        "img": "https://i.ibb.co/5nS97tY/pexels-pixabay-302549.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Venice",
+        "price": "$980",
+        "Duration": "6Days",
+        "description": "Get skip-the-line entry to the Versailles Palace on a guided tour of its exquisite rooms and galleries. Admire the State Apartments, the King's Bedroom, and the Hall of Mirrors..",
+        "img": "https://i.ibb.co/jbLgT2J/pexels-pixabay-417344.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Switzerland",
+        "price": "$900",
+        "Duration": "3Days",
+        "description": "witzerland is a mountainous Central European country, home to numerous lakes, villages and the high peaks of the Alps. Its cities contain medieval quarters, with landmarks like capital Bern’s Zytglogge clock tower and Lucerne’s wooden chapel bridge. .",
+        "img": "https://i.ibb.co/0sD5Vtc/pexels-gabriela-palai-590029.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Hawaii",
+        "price": "$600",
+        "Duration": "4Days",
+        "description": "Hawaii is a state in the Western United States located in the Pacific Ocean about 2,000 miles from the U.S. mainland. It is the only state outside North America, the only state that is an archipelago, and the only state in the tropics",
+        "img": "https://i.ibb.co/ZS9Ncy5/pexels-julius-silver-753626.jpg"
+    }
+]

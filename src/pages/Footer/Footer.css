@@ -1,0 +1,12 @@
+.footer {
+    padding: 50px;
+    background: #313041;
+    color: white;
+  }
+
+  .footer p{
+    color: darkgray;
+  }
+  .footer small {
+    color: darkgray;
+  }
